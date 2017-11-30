@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Emojimotion</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="capture_button">Click to capture photo</string>
+    <string name="upload_button">Upload Photo</string>
+    <string name="desc">Capture image holder</string>
+    <string name="emoji_desc">Emoji holder</string>
+</resources>

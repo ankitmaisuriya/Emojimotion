@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "410753272744",
+    "firebase_url": "https://emojimotion-5da6b.firebaseio.com",
+    "project_id": "emojimotion-5da6b",
+    "storage_bucket": "emojimotion-5da6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410753272744:android:266e2b626f05e0b2",
+        "android_client_info": {
+          "package_name": "com.wiss.plastic.emojimotion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410753272744-dd0sumsj79l3f13vuec8940su6mg4ot8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wiss.plastic.emojimotion",
+            "certificate_hash": "b04ec6624a958fbf11d4b7a8342ea8a24d79e6c9"
+          }
+        },
+        {
+          "client_id": "410753272744-535uk8ru0liq4br58l7050orhq0jhu50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBts5V5mlxh4MY4osme1drpvOF4CLGIQ44"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410753272744-535uk8ru0liq4br58l7050orhq0jhu50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
